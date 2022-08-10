@@ -4,15 +4,15 @@
   
   # Lucas Gabriel de Paula Pinto
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovaniOlaia&show_icons=true&theme=dracula&include_all_commits=false&count_private=true&bg_color=30,008744,003,D62D20,E59600,808080&text_color=FFFFFF&title_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLgpp-06&show_icons=true&theme=dracula&include_all_commits=false&count_private=true&bg_color=30,008744,003,D62D20,E59600,808080&text_color=FFFFFF&title_color=ffffff"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniOlaia&layout=default&langs_count=7&bg_color=30,008744,003,D62D20,E59600,808080&text_color=FFFFFF&title_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLgpp-06&layout=default&langs_count=7&bg_color=30,008744,003,D62D20,E59600,808080&text_color=FFFFFF&title_color=ffffff"/>
   
   </a>
   
   ##
   
-  <a href="https://github.com/GiovaniOlaia">
+  <a href="https://github.com/LucasLgpp-06">
 
 ### Linguagens de estudo:
 
