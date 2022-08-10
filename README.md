@@ -6,7 +6,7 @@
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLgpp-06&show_icons=true&theme=dracula&include_all_commits=false&count_private=true&bg_color=30,008744,003,D62D20,E59600,808080&text_color=FFFFFF&title_color=ffffff"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLgpp-06&layout=default&langs_count=7&bg_color=30,008744,003,D62D20,E59600,808080&text_color=FFFFFF&title_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLgpp-06&layout=compact&langs_count=7&bg_color=30,008744,003,D62D20,E59600,808080&text_color=FFFFFF&title_color=ffffff"/>
   
   </a>
   
@@ -19,6 +19,7 @@
 <img align="center" alt="HTML5" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
 <img align="center" alt="CSS3" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
 <img align="center" alt="MySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="center" alt="Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="center" alt="Bootstrap" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
 <img align="center" alt="PHP" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
 <img align="center" alt="Arduino" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
